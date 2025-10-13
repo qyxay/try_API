@@ -1,20 +1,5 @@
 {
-  "name": "测试文件",
-  "description": "这是一个测试文件",
-  "createdAt": "2024-01-01T00:00:00Z",
-  "updatedAt": "2024-01-01T00:00:00Z",
-  "version": "1.0.0",
-  "data": {
-    "items": [
-      1,
-      2,
-      3,
-      4,
-      5
-    ],
-    "settings": {
-      "theme": "dark",
-      "language": "zh-CN"
-    }
-  }
+  "a": 1,
+  "b": 2,
+  "a+b": 3
 }
